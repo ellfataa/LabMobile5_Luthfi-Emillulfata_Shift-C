@@ -1,4 +1,5 @@
 Tugas 6 Praktikum Pemrograman Mobile
+==============================================
 
 
 Nama: Luthfi Emillulfata
@@ -8,9 +9,11 @@ NIM: H1D022017
 Shitf Lama: D
 
 Shit Baru: C
+
 ================================================
 
 SCREENSHOT TAMPILAN HALAMAN UTAMA
+
 ![Screenshot 2024-10-23 200937](https://github.com/user-attachments/assets/1e0dd29e-02f8-4b5f-929e-e26b82ae67de)
 
 ![Screenshot 2024-10-23 200956](https://github.com/user-attachments/assets/9cafeb9e-e6eb-4f41-8c28-6c7f03961514)
