@@ -1,0 +1,7 @@
+{
+  "name": "elfata",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
